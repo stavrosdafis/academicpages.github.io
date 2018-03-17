@@ -80,35 +80,35 @@ analytics:
 author:
   name             : "Stavros DAFIS"
   avatar           : "Stavros_Dafis.jpg"
-  bio              : "PhD student, LDM, Ecole Polytechnique"
+  bio              : "PhD student, LMD, Ecole Polytechnique"
   location         : "Paris,FR"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "http://scholar.google.gr/citations?user=HrfZWgEAAAAJ&hl=en"
+  email            : "sdafis@lmd.polytechnique.fr"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/22498448@N04/"
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "stavrosdafis.github.io"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/stavros-dafis-ntafis-45178259/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Stavros_Dafis"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCwc-fqKNnpfKgOtZLu2imuQ"
   wikipedia        :
 
 
