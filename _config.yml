@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Stavros DAFIS"
 title_separator          : "-"
-name                     : &name "Test"
+name                     : &name "DAFIS"
 description              : &description "PhD student"
 url                      : https://stavrosdafis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -176,10 +176,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
