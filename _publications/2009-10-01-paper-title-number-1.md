@@ -11,4 +11,4 @@ citation: 'S.Dafis et al., (2018). Remote sensing of deep convection within a tr
 
 [Download paper here](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/asl.823)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: S.Dafis, J.F. Rysman, C. Claud, E. Flaounas, (2018). Remote sensing of deep convection within a tropical-like cyclone over the Mediterranean Sea; Atmospheric Science Letters 19(6).
