@@ -1,14 +1,17 @@
 ---
-title: "Remote sensing of deep convection within a tropical‐like cyclone over the Mediterranean Sea"
+title: "Observational and modeling study of a mesoscale convective system during the HyMeX-SOP1"
 collection: publications
-permalink: https://doi.org/10.1002/asl.823
-excerpt: 'This paper is Medicanes and deep convection'
-date: 2018-04-01
-venue: 'Atmospheric Science Letters 19(6)'
+permalink: https://www.sciencedirect.com/science/article/pii/S0169809516306834?via%3Dihub
+excerpt: 'This paper is about HyMeX campaign'
+date: 2017-05-01
+venue: 'Atmospheric Research, 187'
 paperurl: 'https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/asl.823'
-citation: 'S.Dafis et al., (2018). Remote sensing of deep convection within a tropical-like cyclone over the Mediterranean Sea; Atmospheric Science Letters 19(6).'
+citation: 'S.Dafis et al., (2017). Observational and modeling study of a mesoscale convective system during the HyMeX-SOP1
+Atmospheric Research, 187, 1-15.'
 ---
 
-[Download paper here](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/asl.823)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0169809516306834?via%3Dihub)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Dafis, S., Lagouvardos, K., Kotroni, V., Giannaros, T.M. and Bartzokas, A., 2017: 
+Observational and modeling study of a mesoscale convective system during the HyMeX-SOP1
+Atmospheric Research, 187, 1-15.
