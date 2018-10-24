@@ -12,6 +12,6 @@ main:
   - title: "CV"
     url: /cv/
     
-      - title: "Weather Maps"
+  - title: "Weather Maps"
     url: /GFSvsECMWF/
  
