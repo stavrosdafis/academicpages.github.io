@@ -53,5 +53,15 @@ var addressPoints = [
     "Toulouse, France",
     43.6047,
     1.4442
+  ],
+  [
+    "Rome, Italy",
+    41.9028,
+    12.4964
+  ],
+  [
+    "Heraklion, Greece",
+    35.3387,
+    25.1442
   ]
 ];
