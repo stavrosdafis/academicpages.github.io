@@ -63,5 +63,15 @@ var addressPoints = [
     "Heraklion, Greece",
     35.3387,
     25.1442
+  ],
+  [
+    "Lianokladi, Greece",
+    38.9176,
+    22.3032
+  ],
+  [
+    "Ioannina, Greece",
+    39.6650,
+    20.8537
   ]
 ];
