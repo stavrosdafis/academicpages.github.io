@@ -11,7 +11,4 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Weather Maps"
-    url: /GFSvsECMWF.php
- 
+
